@@ -1,6 +1,8 @@
 body {
     color: rgb(255, 255, 255);
     background-color: black;
+    --bg-color: #2344e8;
+    --font: Grandstander;
 }
 
 section {
